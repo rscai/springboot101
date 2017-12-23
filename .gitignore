@@ -1,3 +1,6 @@
 out
 *.mov
 *.mp4
+
+.vscode
+
