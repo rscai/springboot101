@@ -15,11 +15,13 @@
     2. Configuration properties
 5. Developing Web Applications
     1. Developing Web Applications Intro
-    2. Spring MVC
-    3. RESTFul Intro
-    4. Demo
-    5. Test Web Applications
-    6. Test Demo
+    2. Hypertext Transfer Protocol (HTTP)
+    3. Java Servlet 
+    5. Spring MVC
+    6. Representational State Transfer (REST)
+    7. Spring MVC Demo
+    8. Test Spring MVC
+    9. Test Spring MVC Demo
 6. Data Access with Spring Boot
     1. Data Access Intro
     2. Spring Data Intro
@@ -31,4 +33,3 @@
 8. Security
     1. Security Intro
     2. Spring Security Intro
-    
