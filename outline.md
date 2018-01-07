@@ -22,6 +22,8 @@
     7. Spring MVC Demo
     8. Test Spring MVC
     9. Test Spring MVC Demo
+    10. Static Content
+    11. Static Content Demo
 6. Data Access with Spring Boot
     1. Data Access Intro
     2. Spring Data Intro
@@ -29,7 +31,6 @@
     4. Demo
     5. Mock Database
     6. Test Demo
-7. Static Content
 8. Security
     1. Security Intro
     2. Spring Security Intro
